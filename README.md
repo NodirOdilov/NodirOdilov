@@ -8,18 +8,18 @@
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Языки
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
-### ⚙️ Фреймворки и библиотеки
+### ⚙️ Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
@@ -28,13 +28,13 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)
 ![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
 
-### 🗄️ Базы данных и хранилища
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 
-### 🐳 DevOps и инфраструктура
+### 🐳 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
@@ -42,13 +42,13 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=F46800)
 
-### 🔒 Кибербезопасность
+### 🔒 Cybersecurity
 ![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=000000)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 
-### 🧰 Инструменты
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=white)
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -72,13 +72,13 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NodirOdilov&theme=github-dark-blue&background=0d1117&border=1a1a2e&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&locale=ru)
+![GitHub Streak](https://streak-stats.demolab.com?user=NodirOdilov&theme=github-dark-blue&background=0d1117&border=1a1a2e&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 </div>
 
 ---
 
-## 🏆 Награды GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -88,11 +88,11 @@
 
 ---
 
-## 📫 Связаться со мной
+## 📫 Get in Touch
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Сайт-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://nodirodilov.uz)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://nodirodilov.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/NodirOdilov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/nodirodilov)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nodirodilovofficial@gmail.com)
