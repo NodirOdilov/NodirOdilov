@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:1a1a2e&height=200&section=header&text=Nodir%20Odilov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Administrator%20%7C%20Pentester&descAlignY=55&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+System+Administrator;Python+%7C+FastAPI+%7C+Django+%7C+Aiogram;Secure%2C+scalable+backends;OWASP+mindset+on+every+line+of+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+System+Administrator+%7C+Pentester;Python+%7C+FastAPI+%7C+Django+%7C+Aiogram;Secure%2C+scalable+backends;OWASP+mindset+on+every+line+of+code)](https://git.io/typing-svg)
 
 </div>
 
