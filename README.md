@@ -63,9 +63,10 @@
 
 <div align="center">
 
-<img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=NodirOdilov&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=1a1a2e&hide_border=false&cache_seconds=86400&locale=ru"/>
-
-<img alt="Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodirOdilov&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&border_color=1a1a2e&hide_border=false&cache_seconds=86400&locale=ru"/>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NodirOdilov&theme=github_dark)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NodirOdilov&theme=github_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NodirOdilov&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NodirOdilov&theme=github_dark&utcOffset=5)
 
 </div>
 
